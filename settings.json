@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Friandssmp.aternos.me",
-    "port": 52290,
+    "ip": "Achasmp.aternos.me",
+    "port": 50520,
     "version": "1.21.11",
     "try-creative": false
   },
