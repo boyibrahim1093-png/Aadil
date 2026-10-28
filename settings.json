@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "fraindssmp.falixsrv.me",
-    "port": 20243,
+    "port": 10841,
     "version": "1.21.11",
     "try-creative": false
   },
